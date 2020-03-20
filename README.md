@@ -7,6 +7,9 @@ A collaborative newsroom documentation site, powered by Google Docs.
 
 This fork was created to help index the [Coronavirus Tech Handbook](https://coronavirustechhandbook.com). It is NOT official.
 
+This repo's default branch `coronavirustechhandbook`, is automatically deployed to Heroku:
+https://coronavirustechhandbook-demo.herokuapp.com/
+
 [Inventory of Platforms & Access](https://hackmd.io/npQcfWAkSr2Esab2hyA82w)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
