@@ -3,6 +3,12 @@ Library [![Build Status](https://travis-ci.org/nytimes/library.svg?branch=master
 
 A collaborative newsroom documentation site, powered by Google Docs.
 
+## About this fork
+
+This fork was created to help index the [Coronavirus Tech Handbook](https://coronavirustechhandbook.com). It is NOT official.
+
+[Inventory of Platforms & Access](https://hackmd.io/npQcfWAkSr2Esab2hyA82w)
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**
